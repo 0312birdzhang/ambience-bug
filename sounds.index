@@ -1,0 +1,11 @@
+{
+    "translationCatalog" : "ambience-bug",
+    "files" : [
+        { "displayName" : "卡农"          , "fileName" : "kanong.mp3" },
+        { "displayName" : ""    , "fileName" : "" },
+        { "displayName" : ""    , "fileName" : "" },
+        { "displayName" : ""   , "fileName" : "" },
+        { "displayName" : ""    , "fileName" : "" },
+        { "displayName" : ""   , "fileName" : "" }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "translationCatalog"        : "ambience-bug",
+    "displayName"               : "Bug一样的氛围",
+    "ringerToneFile"            : { "file": "kanong.wav", "enabled": 1 },
+    "messageToneFile"           : { "file": "", "enabled": 1 },
+    "mailToneFile"              : { "file": "",	"enabled": 1 },
+    "internetCallToneFile"      : { "file": "",	"enabled": 1 },
+    "chatToneFile"              : { "file": "",	"enabled": 1 },
+    "calendarToneFile"          : { "file": "", "enabled": 1 },
+    "clockAlarmToneFile"        : { "file": "",	"enabled": 1 },
+    "wallpaper"                 : "ambience-bug.jpg",
+    "highlightColor"            : "#7BB9EA",
+    "secondaryHighlightColor"   : "#33CC33",
+    "primaryColor"              : "#FFFFCC",
+    "secondaryColor"            : "#00FFFF",
+    "ringerVolume"              : 80,
+    "favorite"			: true
+}
